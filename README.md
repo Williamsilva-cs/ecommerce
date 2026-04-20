@@ -18,10 +18,9 @@ Checkout, Tela de produto, Catálogo, home comm banner
  ### Funcionalidades a desenvolver:
   
   1. Área de membros.
-    1. Login diferente para grupos de cliente.
-    
-    2. Desconto para grupos de clientes.
 
+    1. Login diferente para grupos de cliente.
+    2. Desconto para grupos de clientes.
     3. CSS diferetne para grupos de clientes. 
 
   2. Integração com outros pagamentos.
