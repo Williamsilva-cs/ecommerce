@@ -5,12 +5,12 @@ Este é um **e-commerce** para uma empresa de _tecnologia_
 Checkout, Tela de produto, Catálogo, home comm banner 
 
 ### Linguagens do projeto:
- *CSS
+ * CSS
 
- *HTML
+ * HTML
 
- *MySQL
+ * MySQL
 
- *JavaScript
- 
- *PHP
+ * JavaScript
+
+ * PHP
