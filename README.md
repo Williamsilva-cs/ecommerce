@@ -14,3 +14,9 @@ Checkout, Tela de produto, Catálogo, home comm banner
  * JavaScript
 
  * PHP
+
+ ### Funcionalidades a desenvolver:
+  
+  1. Área de membros.
+  2. Integração com outros pagamentos.
+  3. Bônus primeira compra.
