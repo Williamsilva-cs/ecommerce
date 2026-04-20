@@ -6,7 +6,11 @@ Checkout, Tela de produto, Catálogo, home comm banner
 
 ### Linguagens do projeto:
  *CSS
+
  *HTML
+
  *MySQL
+
  *JavaScript
+ 
  *PHP
