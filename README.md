@@ -26,3 +26,7 @@ Checkout, Tela de produto, Catálogo, home comm banner
   2. Integração com outros pagamentos.
 
   3. Bônus primeira compra.
+
+  ### Imagem local:
+
+  ![Logo do python](img/Python.svg.png)
