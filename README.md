@@ -30,3 +30,7 @@ Checkout, Tela de produto, Catálogo, home comm banner
   ### Imagem local:
 
   ![Logo do python](img/Python.svg.png)
+
+  ### Imagem externa: 
+
+  ![Logo SQL](https://techicons.dev/icons/azuresqldatabase)
