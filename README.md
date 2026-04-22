@@ -54,3 +54,7 @@ Checkout, Tela de produto, Catálogo, home comm banner
     return a + b;
    }
   ```
+## Lista de tarefas a fazer:
+- [x] Login diferente para grupos de cliente.
+- [x] Desconto para grupos de clientes.
+- []  CSS diferetne para grupos de clientes. 
