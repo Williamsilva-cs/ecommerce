@@ -53,4 +53,4 @@ Checkout, Tela de produto, Catálogo, home comm banner
    function soma (a, b) {
     return a + b;
    }
-    ```
+  ```
