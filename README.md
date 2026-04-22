@@ -38,4 +38,4 @@ Checkout, Tela de produto, Catálogo, home comm banner
 
   ### Outros links: 
 
-  [Google(https://www.google.com)]
+  [Google](https://www.google.com)
