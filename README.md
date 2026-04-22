@@ -49,8 +49,8 @@ Checkout, Tela de produto, Catálogo, home comm banner
 
   ## Código da função soma 
 
-  ```javascript
-  function soma (a, b) {
+   ```javascript
+   function soma (a, b) {
     return a + b;
-    }
+   }
     ```
