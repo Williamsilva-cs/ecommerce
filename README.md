@@ -34,3 +34,8 @@ Checkout, Tela de produto, Catálogo, home comm banner
   ### Imagem externa: 
 
   ![Logo SQL](https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg)
+
+
+  ### Outros links: 
+
+  [Google(https://www.google.com)]
